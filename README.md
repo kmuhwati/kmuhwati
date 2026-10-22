@@ -15,7 +15,7 @@
   <a href="https://kmuhwati.github.io/">Portfolio</a> ·
   <a href="https://kmuhwati.github.io/resume.pdf">CV</a> ·
   <a href="https://www.linkedin.com/in/kumbirai-muhwati">LinkedIn</a> ·
-  <a href="mailto:kmuhwati@mail.yu.edu">Email</a>
+  <a href="mailto:KMuhwati@my.harrisburgu.edu">Email</a>
 </p>
 
 ---
@@ -66,4 +66,4 @@ Certificate of Cloud Security Knowledge v5 · NVIDIA Certified Associate · Cert
 
 ### Get in touch
 
-I am open to data science roles in security, fraud, privacy and AI safety, in New York or remote. The quickest way to reach me is [kmuhwati@mail.yu.edu](mailto:kmuhwati@mail.yu.edu).
+I am open to data science roles in security, fraud, privacy and AI safety, in New York or remote. The quickest way to reach me is [KMuhwati@my.harrisburgu.edu](mailto:KMuhwati@my.harrisburgu.edu).
