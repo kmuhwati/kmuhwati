@@ -29,10 +29,12 @@
 
 ### Selected projects
 
-Each repository has tested code, CI and a README with the full results.
+The first two run in the browser, so you can try them. Each repository has tested code and a README with the full results.
 
 | Project | What it shows | Headline result |
 |---|---|---|
+| [Phishing URL detector](https://github.com/kmuhwati/phishing-url-detector) · [**live demo**](https://kmuhwati.github.io/phishing-url-detector/) | Honest evaluation, LightGBM in the browser, explainable scores | 84% of live OpenPhish links caught at 2.1% false alarms on unseen sites; exposes a dataset shortcut behind 99.9% scores |
+| [Small-count privacy audit](https://github.com/kmuhwati/small-count-privacy-audit) · [**live demo**](https://kmuhwati.github.io/small-count-privacy-audit/) | Privacy attacks, linear programming, differential privacy | Recovered 216 "hidden" census counts from published totals; DP at ε = 1 costs 0.77 people per cell |
 | [Mobile-money fraud detection](https://github.com/kmuhwati/mobile-money-fraud-detection) | Leakage audit, LightGBM, real-time FastAPI scoring | 99.7% of fraud caught at 64% precision; explains why PaySim models score near 100% |
 | [Live Wikipedia lakehouse](https://github.com/kmuhwati/wikipedia-streaming-lakehouse) | Streaming, Apache Iceberg, change data capture for RAG | Edits searchable in 17 s; 96.5% fewer embeddings than re-indexing; 0 duplicates after crashes |
 | [LLM pretraining data refinery](https://github.com/kmuhwati/llm-pretraining-data-refinery) | Deduplication, decontamination, PII redaction | 339k raw web pages to 62.1M clean training tokens in about 6 minutes on a laptop |
